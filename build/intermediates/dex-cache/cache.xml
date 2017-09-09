@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/wrath/Downloads/SmartSpell/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/wrath/Downloads/SmartSpell/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_5eaaf5a29088de27e282e83b075c43077808cece.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wrath/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/wrath/Downloads/SmartSpell/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_f1e6a5f2e99eb7a57c48b632d8c79b414754a9fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wrath/Downloads/SmartSpell/app/build/intermediates/exploded-aar/com.microsoft.projectoxford/vision/1.0.374/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9106258dc9ec0ed3b24aea758c35a3839cad73d">
+        <dex dex="/home/wrath/Downloads/SmartSpell/app/build/intermediates/pre-dexed/debug/com.microsoft.projectoxford-vision-1.0.374_392971a86d0135e29cc9451bbe5c2f0d05ff3f2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wrath/Downloads/SmartSpell/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/wrath/Downloads/SmartSpell/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_211df515933f7e2f1b759183fbb83c7bfbce8dc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wrath/Downloads/SmartSpell/app/libs/gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/wrath/Downloads/SmartSpell/app/build/intermediates/pre-dexed/debug/gson-2.3.1_8711224a4caa765e05e1d81a63aae78a928928be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wrath/Downloads/SmartSpell/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/wrath/Downloads/SmartSpell/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_f71bbf58904a1f080d2e58c900b5f123fec47faf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wrath/Downloads/SmartSpell/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/home/wrath/Downloads/SmartSpell/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.0_6071c97f322c2e2e28859309ae743f4ce9ffc380.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wrath/Downloads/SmartSpell/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/wrath/Downloads/SmartSpell/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_71500c632e5b03dd2e5a39cc1cf08daa58e0a060.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wrath/Downloads/SmartSpell/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/wrath/Downloads/SmartSpell/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_48baae68faef228d0f17393562df848dc76eb85e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wrath/Downloads/SmartSpell/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/wrath/Downloads/SmartSpell/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_184ca3376797e2f2a9ca8e8483fc9ed47bd09381.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wrath/Downloads/SmartSpell/app/build/intermediates/exploded-aar/com.microsoft.projectoxford/vision/1.0.374/jars/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/home/wrath/Downloads/SmartSpell/app/build/intermediates/pre-dexed/debug/commons-io-2.4_023f0f4de0457a83cb8a4d19554431e7940e0319.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wrath/Downloads/SmartSpell/app/libs/json_simple-1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="/home/wrath/Downloads/SmartSpell/app/build/intermediates/pre-dexed/debug/json_simple-1.1_19d04a1b29e1025b04eefc217cecf5b8e0052526.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wrath/Downloads/SmartSpell/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="/home/wrath/Downloads/SmartSpell/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.1.1_54e78e1ec2308114cddb25b7742161d181fa5b22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wrath/Downloads/SmartSpell/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/wrath/Downloads/SmartSpell/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_d64d1e25db1110d32e1ccc0c7a3614011b2551a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wrath/Downloads/SmartSpell/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/home/wrath/Downloads/SmartSpell/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.0_d63a76f07707e2b06d5105e26c5ced8d94484b0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wrath/Downloads/SmartSpell/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/wrath/Downloads/SmartSpell/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_fcd8d543640b9b45424dcb8dc7aaf6d78b9137e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wrath/Downloads/SmartSpell/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/wrath/Downloads/SmartSpell/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_385ba66ad31c30e33eedac0601bf0e4c58f2838f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wrath/Downloads/SmartSpell/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/wrath/Downloads/SmartSpell/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_66271978b0cfb11c3c5e031f9a067fecfc769ca0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wrath/Downloads/SmartSpell/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/wrath/Downloads/SmartSpell/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_bc6870c61a07964f18528c999d1bf4de505b98bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wrath/Downloads/SmartSpell/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/wrath/Downloads/SmartSpell/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d82cc2aa912145bfdcf5647e977e84dbdfe421e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wrath/Downloads/SmartSpell/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/wrath/Downloads/SmartSpell/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_f744c14ea3d6e33fe37e8e466bd7ac374039457e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wrath/Downloads/SmartSpell/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/wrath/Downloads/SmartSpell/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_f0426dd88e56646e8132719f42b3eb4429b4bf8f.jar" />
+    </item>
+
+</items>
